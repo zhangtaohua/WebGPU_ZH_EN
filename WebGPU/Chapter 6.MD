@@ -1,6 +1,6 @@
 WebGPU
 
-W3C Working Draft, 2 February 2023
+W3C Working Draft, 2 February 2023 
 
 More details about this document
 

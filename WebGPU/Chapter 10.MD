@@ -8,6 +8,9 @@ This version:
 
 https://www.w3.org/TR/2023/WD-webgpu-20230324/
 
+---
+---
+
 # 10. 管道
 
 一个管道，无论是 GPUComputePipeline 还是GPURenderPipeline，都代表了由 GPU硬件、驱动程序 和 用户代理等组合所完成的完整功能，它可以处理 着色器中绑定的 和 顶点缓冲区中 的输入数据，并产生一些输出，如输出渲染目标的颜色。

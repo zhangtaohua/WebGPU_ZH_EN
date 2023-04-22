@@ -16,7 +16,6 @@ Editor's Draft:
 
 https://gpuweb.github.io/gpuweb/
 
-
 History:
 
 https://www.w3.org/standards/history/webgpu

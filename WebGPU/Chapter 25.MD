@@ -20,7 +20,6 @@ Previous Versions:
 
 https://www.w3.org/TR/2023/WD-webgpu-20230413/
 
-
 ---
 ---
 
